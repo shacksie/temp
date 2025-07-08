@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2024-04-15 13:34:57.754 +0100"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Searching For Image: OCR Error: OCR operation was aborted",
+      "timestamp" : "2024-04-15 13:34:59.735 +0100",
+      "identifier" : "Exception",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.988094\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-04-15 13:34:57 +0100\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2024-04-15 13:34:59.745 +0100"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:01 Untitled.script",
+      "timestamp" : "2024-04-15 13:34:59.747 +0100"
+    }
+  ],
+  "createdTimestamp" : "2024-04-15 13:34:57.756 +0100"
+}

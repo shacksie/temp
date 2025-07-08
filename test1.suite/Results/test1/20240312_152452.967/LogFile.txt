@@ -1,0 +1,4 @@
+﻿2024-03-12 15:24:52.971 +0000	START		Running test1.script
+2024-03-12 15:24:53.031 +0000	Log		yes	4	on_test1	test1.script
+2024-03-12 15:24:53.051 +0000	EndTestCase		(Duration:"0.072102", Errors:"0", Exceptions:"0", StartTime:"2024-03-12 15:24:52 +0000", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2024-03-12 15:24:53.056 +0000	SUCCESS		Execution Time 0:00:00 test1.script

@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 1163865.script",
+      "timestamp" : "2024-04-29 11:46:10.039 +0100"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"34.802721\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-04-29 11:46:10 +0100\", Successes:\"0\", TestCase:\"1163865.script\", Warnings:\"0\")",
+      "timestamp" : "2024-04-29 11:46:44.842 +0100"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:34 1163865.script",
+      "timestamp" : "2024-04-29 11:46:44.843 +0100"
+    }
+  ],
+  "createdTimestamp" : "2024-04-29 11:46:10.039 +0100"
+}

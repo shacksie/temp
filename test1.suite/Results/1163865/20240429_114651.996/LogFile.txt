@@ -1,0 +1,3 @@
+﻿2024-04-29 11:46:51.998 +0100	START		Running 1163865.script
+2024-04-29 11:46:52.057 +0100	EndTestCase		(Duration:"0.05857", Errors:"0", Exceptions:"0", StartTime:"2024-04-29 11:46:51 +0100", Successes:"1", TestCase:"1163865.script", Warnings:"0")
+2024-04-29 11:46:52.063 +0100	SUCCESS		Execution Time 0:00:00 1163865.script

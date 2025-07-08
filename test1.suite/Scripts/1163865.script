@@ -1,0 +1,9 @@
+﻿
+put ["New_1233"," Base_43435","New_9999","Base_44444","New_8888"] into myList
+
+put the number of items in (each item of myList which contains "New")
+
+put (each item of myList which contains "New") into new_list
+
+put new_list
+

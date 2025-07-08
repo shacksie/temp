@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running test1.script",
+      "timestamp" : "2024-03-12 15:25:40.865 +0000"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.045796\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-12 15:25:40 +0000\", Successes:\"1\", TestCase:\"test1.script\", Warnings:\"0\")",
+      "timestamp" : "2024-03-12 15:25:40.913 +0000"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 test1.script",
+      "timestamp" : "2024-03-12 15:25:40.917 +0000"
+    }
+  ],
+  "createdTimestamp" : "2024-03-12 15:25:40.867 +0000"
+}

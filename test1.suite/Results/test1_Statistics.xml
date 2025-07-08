@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="1163865">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-04-29 11:46:51 +0100</FirstRun>
+  <LastRun>2024-04-29 11:46:51 +0100</LastRun>
+  <TotalTimeOnSuccess>0.060459</TotalTimeOnSuccess>
+ </script>
+ <script name="test1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-12 15:24:52 +0000</FirstRun>
+  <LastRun>2024-03-12 15:25:40 +0000</LastRun>
+  <TotalTimeOnSuccess>0.133486</TotalTimeOnSuccess>
+ </script>
+</statistics>
